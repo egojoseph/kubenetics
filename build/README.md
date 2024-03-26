@@ -14,7 +14,7 @@ Building Kubernetes is easy if you take advantage of the containerized build env
 
 2. **Optional** [Google Cloud SDK](https://developers.google.com/cloud/sdk/)
 
-You must install and configure Google Cloud SDK if you want to upload your release to Google Cloud Storage and may safely omit this otherwise.
+You must install and configure Google Cloud SDK if you want to upload your release to Google Cloud Storage and may safely omit this otherwise. 
 
 ## Overview
 
